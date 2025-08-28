@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aryan Rajput
+# Hey, I'm Aryan Rajput
 
 🎓 MCA student | 📱 Android Developer | ☁️ Backend + DevOps Learner  
 🎯 Passionate about building scalable mobile apps with real-world backend systems
