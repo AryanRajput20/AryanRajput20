@@ -12,15 +12,6 @@ I'm a passionate full-stack mobile developer with experience in:
 - ✅ SQLite, Retrofit, Room DB
 - 🔄 Learning: Docker, CI/CD, Cloud Fundamentals
 
-## 🧠 Currently Building
-- A professional healthcare app with login, database, and full backend support
-- Real-time chat app with Firebase and custom UI
-
-## 📈 Goals
-- Build scalable, useful apps
-- Work with global tech teams
-- Crack MSc admission in top European universities (2026)
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-rajput21/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/AryanRajput20/)
